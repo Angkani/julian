@@ -40,7 +40,7 @@ const messageData = [
     image: "hulio8.png"
   },
   {
-    message: "in matter of fact, it grow so so much more each and every day",
+    message: "in matter of fact, it grow so much more each and every day",
     image: "hulio8.png"
   },
   {
